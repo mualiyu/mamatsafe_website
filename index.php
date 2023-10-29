@@ -64,7 +64,7 @@
         </ul>
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link learn-more-btn" href="#">Apply/Login</a>
+            <a class="nav-link learn-more-btn" href="http://portal.mamatsafe.com/login">Apply/Login</a>
           </li>
         </ul>
       </div>
