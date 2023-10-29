@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-  <title>MAMAT SAFE | Loan App</title>
+  <title>MAMATSAFE</title>
   <!-- Plugins CSS -->
   <link href="css/plugins.css" rel="stylesheet">
   <link href="css/jquery-ui.css" rel="stylesheet">
@@ -34,7 +34,7 @@
 
       <div class="navbar-brand">
         <a class="navbar-brand-logo" href="#top">
-          <img src="images/logo.svg" style="width: 200px; height:59px;" alt="logo">
+          <img src="images/main.png" style="width: 200px; height:59px;" alt="logo">
         </a>
       </div>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
@@ -64,7 +64,7 @@
         </ul>
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link learn-more-btn" href="http://portal.mamatsafe.com">Apply/Login</a>
+            <a class="nav-link learn-more-btn" href="http://portal.mamatsafe.com">Login</a>
           </li>
         </ul>
       </div>
@@ -96,7 +96,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
-          <h2 class="section-heading">Loan Calculator</h2>
+          <h2 class="section-heading">Calculator</h2>
           <!-- <p class="section-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas odio sem, tempor
             egestas libero at, fermentum posuere quam. Vestibulum dapibus vulputate sapien. Donec pulvinar libero at ex
             tristique commodo.</p> -->
