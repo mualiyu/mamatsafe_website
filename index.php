@@ -360,7 +360,7 @@
             <div class="blog-text app-text" style="text-align: center;">
               <div class="service-icon mb-3" style="background-color: #070707; color: white;">
                 <!-- <img src="images/services/003-profits.png" alt="icon"> -->
-                <strong>1.</strong>
+                <strong>1</strong>
               </div>
               <h3 class="blog-heading"> Contact marketing team</h3>
             </div>
@@ -371,7 +371,7 @@
             <div class="blog-text app-text" style="text-align: center;">
               <div class="service-icon mb-3" style="background-color: #070707; color: white;">
                 <!-- <img src="images/services/003-profits.png" alt="icon"> -->
-                <strong>2.</strong>
+                <strong>2</strong>
               </div>
               <h3 class="blog-heading"> Provide details to marketer</h3>
             </div>
@@ -382,7 +382,7 @@
             <div class="blog-text app-text" style="text-align: center;">
               <div class="service-icon mb-3" style="background-color: #070707; color: white;">
                 <!-- <img src="images/services/003-profits.png" alt="icon"> -->
-                <strong>3.</strong>
+                <strong>3</strong>
               </div>
               <h3 class="blog-heading"> Confirm with appraisal officer</h3>
             </div>
@@ -393,7 +393,7 @@
             <div class="blog-text app-text" style="text-align: center;">
               <div class="service-icon mb-3" style="background-color: #070707; color: white;">
                 <!-- <img src="images/services/003-profits.png" alt="icon"> -->
-                <strong>4.</strong>
+                <strong>4</strong>
               </div>
               <h3 class="blog-heading"> Verification at business</h3>
             </div>
@@ -404,7 +404,7 @@
             <div class="blog-text app-text" style="text-align: center;">
               <div class="service-icon mb-3" style="background-color: #070707; color: white;">
                 <!-- <img src="images/services/003-profits.png" alt="icon"> -->
-                <strong>5.</strong>
+                <strong>5</strong>
               </div>
               <h3 class="blog-heading"> Submit required documents</h3>
             </div>
