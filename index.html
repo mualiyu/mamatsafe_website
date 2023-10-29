@@ -79,7 +79,7 @@
         <img src="images/banner.svg" class="img-fluid" alt="banner">
       </div>
       <div class="col-lg-5 offset-lg-1 col-sm-12 header-title-section">
-        <p class="header-subtitle">Loan EMI Calculator</p>
+        <p class="header-subtitle">EMI Calculator</p>
         <h1 class="header-title"> Affordable Equity Investment for Your Business!</h1>
         <p class="header-title-text">Our mission is to support your sustainable growth by providing accessible
           capital options.</p>
