@@ -415,6 +415,68 @@
   </section>
   <!-- End of Application Process Section -->
 
+  <section id="carousel" class="blog-section">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <h2 class="section-heading"> Our Happy Clients</h2>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-12 col-sm-12">
+          <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <img src="/images/banner/1.jpeg" class="d-block w-100" style="width: auto; height:500px;" alt="">
+              </div>
+              <div class="carousel-item">
+                <img src="/images/banner/2.jpeg" class="d-block w-100" style="width: auto; height:500px;" alt="">
+              </div>
+              <div class="carousel-item">
+                <img src="/images/banner/3.jpeg" class="d-block w-100" style="width: auto; height:500px;" alt="">
+              </div>
+              <div class="carousel-item">
+                <img src="/images/banner/4.jpeg" class="d-block w-100" style="width: auto; height:500px;" alt="">
+              </div>
+              <div class="carousel-item">
+                <img src="/images/banner/5.jpeg" class="d-block w-100" style="width: auto; height:500px;" alt="">
+              </div>
+              <div class="carousel-item">
+                <img src="/images/banner/6.jpeg" class="d-block w-100" style="width: auto; height:500px;" alt="">
+              </div>
+              <div class="carousel-item">
+                <img src="/images/banner/7.jpeg" class="d-block w-100" style="width: auto; height:500px;" alt="">
+              </div>
+              <div class="carousel-item">
+                <img src="/images/banner/8.jpeg" class="d-block w-100" style="width: auto; height:500px;" alt="">
+              </div>
+              <div class="carousel-item">
+                <img src="/images/banner/9.jpeg" class="d-block w-100" style="width: auto; height:500px;" alt="">
+              </div>
+              <div class="carousel-item">
+                <img src="/images/banner/10.jpeg" class="d-block w-100" style="width: auto; height:500px;" alt="">
+              </div>
+              <div class="carousel-item">
+                <img src="/images/banner/11.jpeg" class="d-block w-100" style="width: auto; height:500px;" alt="">
+              </div>
+              <div class="carousel-item">
+                <img src="/images/banner/13.jpeg" class="d-block w-100" style="width: auto; height:500px;" alt="">
+              </div>
+            </div>
+            <a class="carousel-control-prev" href="#carouselExampleFade" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleFade" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
 
 <!-- contact Start -->
   <section id="contact" class="contact-section">
@@ -494,10 +556,10 @@
         <div class="col-lg-3 col-md-6">
           <div class="footer-widget">
             <h5>Address</h5>
-            <p class="mt-3"><i class="fas fa-map-marker-alt"></i> Street 1, Test Address<br>
-              HR. Manager<br>
-              08167236629<br>
-              support@mamatsafe.com</p>
+            <p class="mt-3"><i class="fas fa-map-marker-alt"></i> No. 02 Kujama Close, close to Early Days School, Barnawa, Kaduna, Nigeria.<br>
+              <!-- HR. Manager<br> -->
+              +2349131256914<br>
+              matamsafeng@gmail.com</p>
           </div>
         </div>
         <div class="col-lg-3 col-md-6">
@@ -515,7 +577,7 @@
       <div class="row">
         <div class="col-lg-12">
           <div class="footer-copyright">
-            © 2023 <a style="color: white;" href="https://ajisaq.com/">ajisaq.com</a> All Rights Reserved.
+            © 2023 <a style="color: white;" href="http://mamatsafe.com/">mamatsafe.com</a>
           </div>
         </div>
       </div>
