@@ -358,7 +358,7 @@
         <div class="col-lg-4 col-sm-4">
           <div class="blog-box">
             <div class="blog-text app-text" style="text-align: center;">
-              <div class="service-icon mb-3" style="background-color: #070707; color: white;">
+              <div class="service-icon mb-3" style="background-color: #070707; color: white; width:65px; height:auto; width:65px; height:auto;">
                 <!-- <img src="images/services/003-profits.png" alt="icon"> -->
                 <strong>1</strong>
               </div>
@@ -369,7 +369,7 @@
         <div class="col-lg-4 col-sm-4">
           <div class="blog-box" style="border-radius: 10%;">
             <div class="blog-text app-text" style="text-align: center;">
-              <div class="service-icon mb-3" style="background-color: #070707; color: white;">
+              <div class="service-icon mb-3" style="background-color: #070707; color: white; width:65px; height:auto;">
                 <!-- <img src="images/services/003-profits.png" alt="icon"> -->
                 <strong>2</strong>
               </div>
@@ -380,18 +380,21 @@
         <div class="col-lg-4 col-sm-4">
           <div class="blog-box">
             <div class="blog-text app-text" style="text-align: center;">
-              <div class="service-icon mb-3" style="background-color: #070707; color: white;">
+              <div class="service-icon mb-3" style="background-color: #070707; color: white; width:65px; height:auto;">
                 <!-- <img src="images/services/003-profits.png" alt="icon"> -->
                 <strong>3</strong>
               </div>
               <h3 class="blog-heading"> Confirm with appraisal officer</h3>
             </div>
           </div>
-        </div>
+        </div>  
+      </div>
+      <div class="row">
+        <div class="col-lg-2 col-sm-2"></div>
         <div class="col-lg-4 col-sm-4">
           <div class="blog-box">
             <div class="blog-text app-text" style="text-align: center;">
-              <div class="service-icon mb-3" style="background-color: #070707; color: white;">
+              <div class="service-icon mb-3" style="background-color: #070707; color: white; width:65px; height:auto;">
                 <!-- <img src="images/services/003-profits.png" alt="icon"> -->
                 <strong>4</strong>
               </div>
@@ -402,7 +405,7 @@
         <div class="col-lg-4 col-sm-4">
           <div class="blog-box">
             <div class="blog-text app-text" style="text-align: center;">
-              <div class="service-icon mb-3" style="background-color: #070707; color: white;">
+              <div class="service-icon mb-3" style="background-color: #070707; color: white; width:65px; height:auto;">
                 <!-- <img src="images/services/003-profits.png" alt="icon"> -->
                 <strong>5</strong>
               </div>
@@ -410,6 +413,7 @@
             </div>
           </div>
         </div>
+        <div class="col-lg-2 col-sm-2"></div>
       </div>
     </div>
   </section>
@@ -427,40 +431,40 @@
           <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
             <div class="carousel-inner">
               <div class="carousel-item active">
-                <img src="/images/banner/1.jpeg" class="d-block w-100" style="width: auto; height:500px;" alt="">
+                <img src="/images/banner/1.jpeg" class="d-block w-100" style="width: auto; height:500px; object-fit: cover;" alt="">
               </div>
               <div class="carousel-item">
-                <img src="/images/banner/2.jpeg" class="d-block w-100" style="width: auto; height:500px;" alt="">
+                <img src="/images/banner/2.jpeg" class="d-block w-100" style="width: auto; height:500px; object-fit: cover;" alt="">
               </div>
               <div class="carousel-item">
-                <img src="/images/banner/3.jpeg" class="d-block w-100" style="width: auto; height:500px;" alt="">
+                <img src="/images/banner/3.jpeg" class="d-block w-100" style="width: auto; height:500px; object-fit: cover;" alt="">
               </div>
               <div class="carousel-item">
-                <img src="/images/banner/4.jpeg" class="d-block w-100" style="width: auto; height:500px;" alt="">
+                <img src="/images/banner/4.jpeg" class="d-block w-100" style="width: auto; height:500px; object-fit: cover;" alt="">
               </div>
               <div class="carousel-item">
-                <img src="/images/banner/5.jpeg" class="d-block w-100" style="width: auto; height:500px;" alt="">
+                <img src="/images/banner/5.jpeg" class="d-block w-100" style="width: auto; height:500px; object-fit: cover;" alt="">
               </div>
               <div class="carousel-item">
-                <img src="/images/banner/6.jpeg" class="d-block w-100" style="width: auto; height:500px;" alt="">
+                <img src="/images/banner/6.jpeg" class="d-block w-100" style="width: auto; height:500px; object-fit: cover;" alt="">
               </div>
               <div class="carousel-item">
-                <img src="/images/banner/7.jpeg" class="d-block w-100" style="width: auto; height:500px;" alt="">
+                <img src="/images/banner/7.jpeg" class="d-block w-100" style="width: auto; height:500px; object-fit: cover;" alt="">
               </div>
               <div class="carousel-item">
-                <img src="/images/banner/8.jpeg" class="d-block w-100" style="width: auto; height:500px;" alt="">
+                <img src="/images/banner/8.jpeg" class="d-block w-100" style="width: auto; height:500px; object-fit: cover;" alt="">
               </div>
               <div class="carousel-item">
-                <img src="/images/banner/9.jpeg" class="d-block w-100" style="width: auto; height:500px;" alt="">
+                <img src="/images/banner/9.jpeg" class="d-block w-100" style="width: auto; height:500px; object-fit: cover;" alt="">
               </div>
               <div class="carousel-item">
-                <img src="/images/banner/10.jpeg" class="d-block w-100" style="width: auto; height:500px;" alt="">
+                <img src="/images/banner/10.jpeg" class="d-block w-100" style="width: auto; height:500px; object-fit: cover;" alt="">
               </div>
               <div class="carousel-item">
-                <img src="/images/banner/11.jpeg" class="d-block w-100" style="width: auto; height:500px;" alt="">
+                <img src="/images/banner/11.jpeg" class="d-block w-100" style="width: auto; height:500px; object-fit: cover;" alt="">
               </div>
               <div class="carousel-item">
-                <img src="/images/banner/13.jpeg" class="d-block w-100" style="width: auto; height:500px;" alt="">
+                <img src="/images/banner/13.jpeg" class="d-block w-100" style="width: auto; height:500px; object-fit: cover;" alt="">
               </div>
             </div>
             <a class="carousel-control-prev" href="#carouselExampleFade" role="button" data-slide="prev">
@@ -539,8 +543,8 @@
       <div class="row">
         <div class="col-lg-3 col-md-6">
           <div class="footer-widget">
-            <img src="images/logo.svg" style="width: 200px; height:59px;" alt="logo" />
-            <p class="mt-4">Our mission is to support your sustainable growth by providing accessible capital options. </p>
+            <img src="images/logo.svg" style="width: 200px; height:59px; -webkit-filter: invert(100%); filter: invert(100%);" alt="logo" />
+            <p class="mt-2">Our mission is to support your sustainable growth by providing accessible capital options. </p>
           </div>
         </div>
         <div class="col-lg-3 col-md-6">

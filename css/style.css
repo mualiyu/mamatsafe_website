@@ -425,11 +425,11 @@ html .ui-button.ui-state-disabled:active {
 	filter: brightness(0) invert(0);
 }
 h3.service-heading {
-    color: #070707;
+    color: white;
     margin-top: 20px;
     font-weight: 500;
     font-size: 24px;
-    background: rgba(50,33,83,0.1);
+    background:black;
     padding: 5px 15px;
     display: inline-block;
     border-radius: 10px;
