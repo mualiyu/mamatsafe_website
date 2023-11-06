@@ -5,7 +5,6 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
   <title>MAMATSAFE</title>
   <!-- Plugins CSS -->
   <link href="css/plugins.css" rel="stylesheet">
@@ -16,12 +15,6 @@
   <link href="css/style.css" rel="stylesheet">
   <!-- Favicon -->
   <link rel="icon" type="image/x-icon" href="images/favicon.png">
-  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-  <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
 
 </head>
 
@@ -55,12 +48,6 @@
           <li class="nav-item">
             <a class="nav-link" href="#contact"><i class="fas fa-address-book"></i> Contact</a>
           </li>
-          <!-- <li class="nav-item">
-            <a class="nav-link" href="#blog"><i class="far fa-newspaper"></i> Blog</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#reviews"><i class="far fa-comment-dots"></i> Reviews</a>
-          </li> -->
         </ul>
         <ul class="navbar-nav">
           <li class="nav-item">
@@ -97,9 +84,6 @@
       <div class="row">
         <div class="col-lg-12">
           <h2 class="section-heading">Calculator</h2>
-          <!-- <p class="section-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas odio sem, tempor
-            egestas libero at, fermentum posuere quam. Vestibulum dapibus vulputate sapien. Donec pulvinar libero at ex
-            tristique commodo.</p> -->
         </div>
       </div>
       <div class="row">
@@ -188,8 +172,6 @@
             </div>
             <div class="service-text">
               <h3 class="service-heading">SHORT TERM LOAN</h3>
-              <!-- <p class="service-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas odio sem, tempor
-                egestas libero at, fermentum posuere quam.</p> -->
               <ul class="service-para pt-2">
                 <li>Equity from N50K to N100M</li>
                 <li>0% interest</li>
@@ -285,19 +267,6 @@
 
           </div>
         </div>
-        <!-- <div class="col-lg-4 col-sm-6">
-          <div class="service-box">
-            <div class="service-icon">
-              <img src="images/services/006-credit-card.png" alt="icon">
-            </div>
-            <div class="service-text">
-              <h3 class="service-heading">Credit Card Issue LOAN</h3>
-              <p class="service-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas odio sem, tempor
-                egestas libero at, fermentum posuere quam.</p>
-            </div>
-
-          </div>
-        </div> -->
       </div>
     </div>
   </section>
@@ -513,24 +482,6 @@
                 </div>
             </div>
           </form>
-
-          <!-- <form class="contact-form">
-            <div class="contact-form-head">
-              <h3>Send Message</h3>
-            </div>
-            <div class="contact-form-inner">
-              <div class="form-group">
-                <input type="text" class="form-control" id="name" placeholder="Name">
-              </div>
-              <div class="form-group">
-                <input type="email" class="form-control" id="email" placeholder="Email">
-              </div>
-              <div class="form-group">
-                <textarea class="form-control" id="message" placeholder="Write Your Message"></textarea>
-              </div>
-              <button type="submit" class="btn btn-primary">Submit</button>
-            </div>
-          </form> -->
         </div>
       </div>
     </div>
