@@ -469,11 +469,11 @@
           <form class="contact-form">
             <div class="contact-form-head"></div>
             <div class="contact-form-inner">
-              <p class="mt-1" style="font-size: 20px;"><i class="fas fa-map-marker-alt"></i> Street 1, Test Address<br>
+              <p class="mt-1" style="font-size: 20px;"><i class="fas fa-map-marker-alt"></i> No. 02 Kujama Close, close to Early Days School, Barnawa, Kaduna, Nigeria.<br>
                 <br>
-                08167236629<br>
+                +2349131256914<br>
                 <br>
-                support@mamatsafe.com</p>
+                matamsafeng@gmail.com</p>
                 <div class="social-icons">
                   <a href="#"><i class="fab fa-facebook aa"></i></a>
                   <a href="#"><i class="fab fa-twitter aa"></i></a>
